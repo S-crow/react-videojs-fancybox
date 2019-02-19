@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import VideoContent from './content';
 import videojs from 'video.js';
 const $ = require('jquery');
 window.jQuery = $;

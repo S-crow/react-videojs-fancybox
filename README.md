@@ -4,11 +4,12 @@
 
 [![NPM](https://img.shields.io/npm/v/react-videojs-fancybox.svg)](https://www.npmjs.com/package/react-videojs-fancybox) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Alternative
-This package is using `VideoJS` library combined with `jQuery` and `fancybox` library (`jQuery-based`), if you looking for `react-based` modal for VideoJS use [react-modal-videojs](https://www.npmjs.com/package/react-modal-videojs) instead.
+## Pure-React Alternative
+This package is using `VideoJS` library combined with `jQuery` and `fancybox` library (`jQuery-based`).
+If you looking for `react-based (react & videojs only)`, use [react-modal-videojs](https://www.npmjs.com/package/react-modal-videojs) instead.
 
 ## Demo
-Check the [demo](https://waskito.github.io/react-videojs-fancybox/)
+Check the [Demo](https://waskito.github.io/react-videojs-fancybox/)
 
 ## Install
 

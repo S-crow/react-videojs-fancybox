@@ -10,6 +10,7 @@
 .poster{
   width: 100%;
   height: auto;
+  cursor: pointer;
 }
 
 .playButton {
@@ -25,6 +26,7 @@
   height: 60px;
   position: absolute;
   width: 80px;
+  cursor: pointer;
 }
 .playButton::after {
   border-right: none;

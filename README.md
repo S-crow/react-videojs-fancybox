@@ -6,7 +6,8 @@
 
 ## Pure-React Alternative
 This package is using `VideoJS` library combined with `jQuery` and `fancybox` library (`jQuery-based`).
-If you looking for `react-based (react & videojs only)`, use [react-modal-videojs](https://www.npmjs.com/package/react-modal-videojs) instead.
+
+If you looking for `react-based (react & videojs only)`,try to use [react-modal-videojs](https://www.npmjs.com/package/react-modal-videojs) instead.
 
 ## Demo
 Check the [Demo](https://waskito.github.io/react-videojs-fancybox/)
